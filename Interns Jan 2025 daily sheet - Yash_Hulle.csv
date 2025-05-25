@@ -1,0 +1,668 @@
+,TASK DONE
+28.01.2025 (Tuesday),1. Introduced to my supervisor and team members. Learned about their roles and responsibilities.
+,2. Overview of React.js to Next.js migration project. Discussed key differences and migration objectives.
+,3. Worked on new task which was on Static.html changing  the Schemas and Canonical on hostinger for Connecting Dots ERP
+,"4. Worked for Digital Marketing Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"5. Worked for Data-Science Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"6. Worked for Full Stack-Developer Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"7. Worked for Java Course Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+29.01.2025 (Wednesday),
+,"1. Worked for Mern-Stack Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"2. Worked for HR.generalist Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"3. Worked for HR-Analytics Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"4. Worked for HR-Management Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"5. Worked for HR-Payroll Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+,"6. Worked for HR-Training Static.html Page , Changed its schema and edited the Canonical. (18-City)"
+30.01.2025  (Thursday),
+,
+,
+,
+,
+,
+,
+,
+,
+31.01.2025 (Friday),
+,
+,
+,
+,
+,
+01.01.2025  (Saturday),
+,
+,
+,
+,
+03.02.2025 (Monday),
+,1. Today Work on the Atorix IT Website.
+,2. Editing the About Page of Atorix.
+,3. Edited the 'How We Can Help' section of 'About' page.
+,4. Edited the 'Our Partners' section of 'About' page.
+,5. Enhanced overall and make some improvements in 'About' page.
+04.02.2025 (Tuesday),
+,1. Today Work on the Connecting Dots Website.
+,2. Understand the folder and file structure of project.
+,3. The BlogsPage file taken to make modifications.
+,4. Also understanding backend of Project.
+,
+,
+,
+05.02.2025 (Wednesday),
+,1. Today Worked on Blogs Page.
+,2. Modified backend for the blogs Panel.
+,3. Modified BlogsAdmin page to fetch and post blogs.
+,4. Modified BlogsPage to fetch blogs.
+,"5. In backend, fixed database connection."
+,
+06.02.2025 (Thursday),
+,1. Created a titles For Different Keywords
+,2. Created a Content According to title.
+,3. Added hyperlinks to keywords within content
+,4. Posted and Published a each Content on Different Websites.
+,
+,
+,
+,
+07.02.2025(Friday),
+,1. Today work on blogsPanel.js backend file for Blogs.
+,2. Added Navigation btn in the Admin Login page for the blogs page.
+,3. Enhanced design for the Blogs page.
+,4. Enhanced design for the Blogs details page.
+,5. Enhanced design for the Blogs admin page. 
+,
+08.02.2025(Saturday),
+,1. All files related blogs are updated and uploaded to hostinger.
+,2. Backend for blogs updated and also updated in hosting site render.com
+,3. All issues are resolved for blogs page after hosting.
+,4. Work on static files of pages in backend.
+10.02.2025(Monday),
+,1. Started migration of ConnectingDotsERP project from react.js to next.js
+,2. Migrated Navbar component from react to next.
+,3. Migrated Footer component.
+,4. Migrated Few components of HomePage.
+,
+11.02.2025(Tuesday),
+,1. Migrated PlacementSection component.
+,2. Migrated OurStats component.
+,3. Migrated Achievements component.
+,4. Migrated FeedbackAndReviews component.
+12.02.2025(Wednesday),
+,1. Enhanced components in home page.
+,2. Created routes for courses.
+,3. Created slug file used for routing.
+,4. Migrated some course components.
+,
+,
+13.02.2025(thursday),1. Migrated the Why Course component.
+,2. Migrated Course Description  Component.
+,3. Migrated the Course Certificate Component.
+,4. Enhanced the overall minor fixes in Course Components.
+14.02.2025(Friday),
+,1. Modified Carousel1 in HeaderCarousel component and also modified css for it.
+,"2. Modified Carousel2 in HeaderCarousel component and also modified css for it."
+,"3. Modified Carousel3 in HeaderCarousel component and also modified css for it."
+,4. Modified Carousel4 in HeaderCarousel component and also modified css for it.
+15.02.2025(Saturday),
+,"1. Modified  HeaderCarousel and all issues related styling, alignment are resolved."
+,2. Modified  Chevron component and make it mobile responsive.
+,3. Modified  OurClients component and make it as expected.
+,"4. Modified placement component and made it mobile responsive"
+,5. Modified Achievements component for mobile view.
+17.02.2025(Monday),
+,1. Modified slug files to resolve rendering issue if courses components.
+,2. Resolved issue related routes of courses.
+,3. Deployed project on the versel for testing.
+,4. Validated all goals related courses pages/components/routes after deployment.
+18.02.2025(Tuesday),
+,1. Added routes for all SAP courses and tested it.
+,2. Added routes for all IT courses and tested it.
+,3. Added routes for all Data Visualisation courses and tested it.
+,"4. Added routes for all Data Marketing courses and tested it."
+,"5. Added routes for all HR courses and tested it."
+19.02.2025(Wednesday),
+,1. Migrated blogs page code to next.js project. (In progress)
+,2. Migrated blog detail page in next.js project. (In progress)
+,3. Migrated blog admin page in next.js project. (In progress)
+,4. Created routes for the blogs navigation.
+,5. Developed various components for blogs page. (In progress)
+20.02.2025(Thursday),
+,"1. Updated backend for Blogs Page."
+,"2. Modfified Blogs Page and also make it responsive."
+,"3. Modified Blogs Detail Page and also make it responsive."
+,"4. Added Category and Filter component for blogs categorisation."
+,5. Added Breadcrumb for page navigation in blogs section.
+21.02.2025(Friday),
+,1. Modified Blogs Page.
+,"2. Fixed stickyform problem and also make it responsive."
+,3. Migrated Contact form and its css from react project to next project
+,4. Modified Contact form and linked to popup courses.
+,5. Worked on popup form.
+22.02.2025(Saturday),
+,"1. Modified css of Related course component and make it responsive."
+,"2. Modified css of Keypoints component and make it responsive."
+,"3. Modified css of FAQ component and make it responsive."
+,"4. Modified css of Syllabus component and make it responsive."
+,5. Modified css of Header carousel component and make it responsive (in progress).
+24.02.2025(Monday),
+,"1. Modified Header carousel component, made it responsive. "
+,2. Modified Placement component and made it responsive.
+,3. Modified Feedback and reviews component and made it responsive.
+,4. Fixed some minor issues related to css in course components.
+,5.  Fixed some minor issues related to css in chatbot components.
+25.02.2025(Tuesday),
+,1. Modifed Navbar component. (in progress)
+,2. Modified Navlinks component and enhancing css for responsiveness. (in progress)
+,
+26.02.2025(Wednesday),
+,1. Modified Navbar component and make it responsive.
+,2. Modified all forms in the project.
+,3. Tested all forms of the website.
+,4. Fixes minor issues in the components.
+,5. Fixed routes of some courses which are not rendering.
+27.02.2025(Thursday),
+,1. Fixed the hydration error of some components.
+,2. Fixed the issue in page source code of courses.
+,3. Enhanced the styling of popup form component.
+,4. Enhanced the styling of footer component.
+,5. Modified Keypoints component and make it responsive.
+,
+28.02.2025(Friday),"1. Redeployed project on the versel for testing."
+,"2. Migrated Learning Path component from react.js project to next.js project."
+,"3. Migrated Curriculum Accordion component from react.js project to next.js project."
+,"4. Resolved some minor issues in course components."
+,5. Modified some components in about us page.
+01.03.2025(Saturday),
+,1. Created sitemap file which handled sitemaps.
+,2. Solved issue in page source of course components.
+,3. Modified sidebar in About page.
+,4. Modifed form in contact us page and connected with backend.
+,5. Modifying and redesigning the feedback component in home page.
+03.03.2025(Monday),
+,1. Redesigned feedback and review component.
+,"2. Modified and updated css for feedback and review component for responsiveness."
+,"3. Enhanced the css of components in home page."
+,4. Working on about page to redisign branches section.
+,
+04.03.2025(Tuesday),
+,1. Redesigned Placement component in home page.
+,2. Modified css of Placement component to make it responsive.
+,3. Created a StickyScrollReveal component for about page.
+,4. Modifying StickyScrollReveal component to make it better. (In progress)
+05.03.2025(Wednesday),
+,1. Enhanced layout of Placement component.
+,2. Enhanced the design and layout of StickyScrollReveal component.
+,3. Fixed some minor issues and bugs of the components.
+,4. Redesign Branches component in the about page.
+06.03.2025(Thursday),
+,1. Redesigned Gallery component in about page and made it responsive.
+,2. Modified ProgressBars component in about page and made it responsive.
+,3. Redesigned why component in course page and made it responsive.
+,4. Fixed some minor issues and bugs of the components.
+,5. Modifying StickyScrollReveal component in about page and making it responsive. (In progress)
+07.03.2025(Friday),
+,1. Modified StickyScrollReveal component in about page and made it responsive.
+,2. Fix the glitch in keypoints component in home page.
+,3. Modified Navbar component and enhanced it for mobile view.
+,4. Modified some common components and its css.
+,5. Fixed some issues in about page components.
+8.03.2025(Saturday),
+,1. Enhanced Page Header component in About page.
+,2. Modified Navbar component.
+,"3. Modified some common components and its css."
+,4. Modified Sticky form and make it responsive.
+10.03.2025(Monday),
+,1. Modified Header carousel component in home page.
+,2. Modified Why component in courses page.
+,3. Fixed minor issues in components.
+,4. Modified all components in a about page.
+,5. Deployed project on versel with updated files and tested.
+11.03.2025(Tuesday),
+,1. Improved performance of the website.
+,2. Modified Header Carousel component.
+,3. Modified Chevron Component.
+,4. Modified OurClients Component.
+,5. Modified Call advisor component.
+,
+12.03.2025(Wednesday),1. Made changes in Header Carousel component.
+,2. Solved the sitemap issue.
+,3. Made chevron component responsive.
+,4. Made Our Stats component responsive.
+,
+13.03.2025(Thursday),
+,1. Modified keypoints component and made changes in alignement.
+,2. Modified btnForm layout.
+,3. Modified all forms to accept all counties numbers with their respected digits.
+,
+,
+14.03.2025(Saturday),
+,1. Redirected connectingdotserp.in website to connectingdotserp.com.
+,2. Redirected sublinkes of connectingdotserp.in website to connectingdotserp.com.
+,3. Working on resolving the issue of sitemap.
+17.03.2025(Monday),
+,1. Updated sitemap file.
+,2. Created and updated robots.txt file.
+,3. Resolved issue related sitemap.
+,4. Working on to resolve issue with page not found and broken links. (In progress)
+,5. Posted 5 blogs on our website.
+,6. Updated static html files to resolve page not found and broken links.
+,7. Made changes in Navbar and Footer component for courses routes.
+18.03.2025(Tuesday) ,
+,1. Some issue resolved for page not found and broken links.
+,2. Added images in gallery component for both home page and about page.
+,"3. Enhanced the design, layout, structure of Blogs Admin Page."
+,"4. Enhanced the design, layout, structure of Blogs Card component."
+,5. Developed Blogs Carousel component for Blogs Page.
+,
+0.08.2024(Wednesday),
+,
+,
+,
+,
+,
+08.08.2024(Thursday),
+,
+,
+,
+09.08.2024(Friday),
+,
+,
+,
+,
+,
+10.08.2024(Saturday),
+,
+,
+,
+12.08.2024I(Monday),
+,
+,
+,
+13.08.2024 (Tuesday),
+,
+,
+,
+26.03.2025 (Wednesday),
+,1. Modified HeaderCarousel Component to reduce loading time.
+,2. Modified Chevron Component to reduce loading time.
+,3. Modified robots.txt to disallow unnecessary links to be crawled.
+,4. Modified json data file for ui/ux component.
+,5. Issue resolved related hr-hcm course links.
+27.03.2025 (Thursday),
+,1. Modified static html files for Chatgpt course.
+,2.Updated server file and enabled delete method.
+,3. Modified Dashboard page and enabled delete option.
+,4. Enhanced the design of dashboard page.
+,
+28.03.2025 ( Friday),
+,1. Updated json of related courses component.
+,2. Updated static html files for full stack course.
+,3. Making script for update multiple static html files (progress).
+,
+,
+29.03.2025 (Saturday),
+,"1. Updated all static files of all courses for all city except pune, mumbai and raipur."
+,2. Resolved minor issue routes for courses in footer.
+,"3. Updated some pune, mumbai, and raipur files to resolve canonical issue."
+,4. Modified all forms and added loading for submit button.
+,5. Modified robots.txt file to resolve issue related to disallowed links.
+,
+31.03.2025 (Monday),
+,1. Resolved course component loading issue.
+,2. Resolved sitemap issue.
+,3. Resolved missing canonical issue and subdomain removed in some files.
+,4. Resolved minor issue like multiple tag and long meta description.
+,5. Added static html for home page.
+01.04.2025 (Tuesday),
+,"1. Updated Static html files for pune, mumbai, and raipur files."
+,2. Updated Footer component and added contact details.
+,3. Modified sticky form and resolved issue.
+,4. Updated static html for home page.
+,5. Updated sitemap.xml file.
+2.04.2025 (Wednesday),
+,1. Search ranking with the given keywords for mumbai.
+,2. Resolved some issues occured in ahrefs.
+,3. Updated meta data like title and description for sap pune courses.
+,4. Developed City Sitemap page and its components.
+,
+3.04.2025 (Thursday),
+,1. Updated meta data like title and description for it pune courses.
+,2. Resolved some issues occured in ahrefs.
+,3. Resolved issue related case sensitivity in the links.
+,4. Developed terms and condition and privacy policy pages.
+,5. Made components responsive which are left.
+04.04.2025 (Friday),
+,1. Redesigned popular courses component in home page.
+,2. Added dynamic timer and seats left in it popular courses component.
+,3. Developed new dynamic form for popular courses component.
+,4. Working on resolving git lfs error. (in progress)
+05.04.2025 (Saturday),
+,1. Resolved issue related git lfs error.
+,2. Updated and redesigned CityCoursePage.
+,3. Updated and redesigned CitySitemap component.
+,4. Updated our clients component in home page.
+07.04.2025 (Monday),
+,1. Updated popup form and added animation to its border.
+,2. Resolved issue of open graph's link issue.
+,3. Updated form in popular courses component.
+,4. Created and updated static html files for Pune's places.
+,5. Updated components and added these places in site.
+,6. Updated sitemap page and added description of newly added places.
+08.04.2025 (Tuesday),
+,1. Created and updated static html files for Mumbai's location.
+,2. Updated components and added these locations in site.
+,3. Updated sitemap page and added description of newly added places.
+,4. Updated favicon logo and made it circular for better ux.
+,5. Resolving issue related orphan pages. (in progress)
+09.04.2025 ( Wednesday),
+,1. Added clients logos in the our clients component.
+,2. Resolving issue related orphan pages. (in progress)
+,3. Shifiting backend from render.com to amazon aws.
+,4. Deployed backend server on aws EB.
+10.04.2025 (Thursday),
+,
+,
+,
+,
+11.04.2025 (Friday),
+,1. Modified call advisor strip.
+,2. Updated forms to handle validation of both number and email.
+,3. Updated marquee component and made it dynamic for dates.
+,4. Resolved some minor issues.
+,
+12.04.2025 (Saturday),
+,1. Resolving issues related page speed performance.
+,2. Modified all courses links component to display hard coded links.
+,3. Resolving issue related ahrefs.
+,
+14.04.2025 (Monday),
+,1. Resolved issue related orphan pages.
+,2. Updated static html files for the pune's and mumbai's sub regions.
+,3. Updated sitemap.xml file.
+,
+,
+15.04.2025 (Tuesday),
+,1. Updated all static html files.
+,"2. Created static html files for aboutus, blog, and some other pages."
+,3. Some issue resolved related to ahrefs.
+,
+16.04.2025 (Wednesday),
+,1. Started working on atorix project.
+,2. Updated common components.
+,3. Enhanced some components in Home Page.
+,4. Resolved issue related images are not visible in connecting dots project.
+,5. Updated static html in connecting dots project.
+17.04.2025 (Thursday),
+,1. Started developing backend for atorix project.
+,2. Updated static html in connecting dots project.
+,3. Resolved some minor issue in connecting dots project.
+,
+,
+18.04.2025 (Friday),
+,1. Updated Navbar component.
+,2. Updated and enhanced Hero section in home page.
+,3. Resolved some minor issues and bugs.
+,
+,
+19.04.2025 (Saturday),
+,1. Enhanced components in Home page of Atorix project.
+,2. Developed Static html file for contact us page.
+,3. Resolving issue related google maps alt.
+,4. Updated contact us page.
+,
+21.04.2025 (Monday),
+,1. Updated Navbar and Footer in connecting dots project for page speeding.
+,2. Redesigned Hero section in home page of atorix project.
+,3. Redesigned our clients section in home page.
+,
+22.04.2025 (Tuesday),
+,"1. Updated meta title and description for DV, DM and HR courses."
+,2. Enhanced Hero section design for home page.
+,3. Redesigned Service section for the home page.
+,4. Redesigned other components for the home page.
+,5. Updated description and other data in the json files for sap s4/hana and fico.
+23.04.2025 (Wednesday),
+,1. Modified and enhanced design of Description component in Connecting Dots erp.
+,2. Enhanced hero section's logo sphere.
+,3. Redesigned industry component in home page.
+,4. Redesigning Industry page.
+24.04.2025 (Thursday),
+,1. Configured git in cpanel for connecting roots.
+,2. Project files uploaded on cpanel.
+,3. Created node.js setup on cpanel.
+25.04.2025 (Friday),
+,1. Developed browse industry component in Industry page.
+,2. Developed Detailed Industry Section in Industry page.
+,3. Developed CTA component in Industry page.
+26.04.2025 (Saturday),
+,1. Developed about page and hero section.
+,2. Developed our mission component.
+,3. Developed why choose us component.
+,
+28.04.2025 (Monday),
+,1. Developed and enhanced service page and hero section.
+,2. Developed and enhanced service overview section.
+,3. Developed and enhanced detailed service section.
+,4. Updated and enhanced CTA section.
+26.04.2025 (Tuesday),
+,
+,
+,
+,
+16.10.2024(Wednesday),
+,
+,
+,
+,
+17.10.2024(Thursday),
+,
+,
+,
+,
+02.05.2025 (Friday),
+,1. Modified service page.
+,2. Created dynamic components for service page.
+,3. Created json file for different types of services content.
+,"4. Enhance the design of service page by adding review, testimonials like components."
+,5. Redesigning the header carousel component in home page of cderp project.
+03.05.2025 (Saturday),
+,1. Added animated 3d logo in the hero section of homepage of cderp project.
+,2. Added other service pages content in json data.
+,"3. Enhanced the design of review, testimonials components."
+,
+05.05.2025 (Monday),
+,1. Modified Hero section in cderp.
+,2. Modified Navbar in cderp.
+,3. Developed privacy and terms pages for atorix.
+,4. Modified and enhanced home page for atorix.
+,
+06.15.2025 (Tuesday),
+,1. Modified logo in Navbar and Home page hero section with responsiveness in cderp.
+,2. Fixes some some minor bugs and issues in atorix.
+,3. Better organized project structure and updated common styling.
+,4. Modified backend of atorix for new forms layout and structure.
+,"5. Made connection of frontend, backend and database and deployed it for testing."
+,6. Tested deployed site and forms submission.
+07.05.2025 (Wednesday),
+,1. Developed floating contact icon.
+,2. Modified backend to ingrate web3forms.
+,3. Modified all forms in frontend to work with web3forms.
+,4. Modified frontend and backend to add ping functioanlity.
+,5. Tested all forms are working as expected.
+,6. Developing dashboard page. (in progress)
+08.05.2025 (Thursday),
+,1. Developed dashboard page.
+,2. Added functionalities in dashboard page.
+,3. Modified backend in cdrerp project for better authentication.
+,4. Made modification in frontend to integrate newly developed authentication.
+,5. Developed ping functionality for cderp.
+,
+09.05.2025 (Friday),
+,1. Configured newly developed atorix site with old.
+,2. Resolved issues related cors.
+,3. Redesigned Navbar component for cderp.
+,4. Enhanced Navbar component and made it responsive for mobile view.
+,
+,
+10.05.2025 (Saturday),
+,1. Modified service page to resolve styling related issue.
+,2. Modified floating contact icon.
+,3. Developed popup form and integrated it.
+,
+,
+12.05.2025 (Monday),
+,1. Enhanced popup form component.
+,2. Resolved some minor bugs.
+,3. Redesigned branches component in home page.
+,
+,
+13.05.2025 (Tuesday),
+,1. Enhanced branches component and added city navigation.
+,2. Resolving issue related course component not loading. (in progress)
+,3. Modified course component loader.
+,
+,
+14.05.2025 (Wednesday),
+,1. Developed loader component for course page.
+,2. Modified description component.
+,3. Developed pages for Data science services.
+,4. Enhanced dark theme styling of components.
+,
+,
+15.05.2025 (Thursday),
+,1. Modified dashboard page to show time.
+,2. Developing Admin Panel. (in progress)
+,3. Modifying backend to add new features for admin panel. (in progress)
+,4. Developed superadmin page for admin and superadmin role.
+,
+16.05.2025 (Friday),
+,"1. Modified backend for features like User/Admin Management, Leads Management, and more."
+,2. Developed User Management section.
+,3. Developed Lead Management section.
+,4. Developed Analytics section.
+,5. Updated dashboard page for new features.
+17.05.2025 (Saturday),
+,1. Developed and modified other sections in superadmin page.
+,2. Modified and updated backend to integrate new features and functionalities.
+,3. Developed functionality for lead assignment to different profiles.
+,4. Developed setting section to restrict lead status edit functionality.
+,5. Modified dashboard page and made it responsive.
+,6. Modified and updated audit-logs section to display more detailed logs.
+19.05.2025 (Monday),
+,1. Added new links redirections to resolve broken links issue.
+,2. Connected Atorix project to Google Tag Manager and Google Analytics.
+,3. Developed and added schema for home page.
+,
+,
+20.05.2025 (Tuesday),
+,1. Enhanced aboutus page.
+,2. Modified IconsCloud component and optimized it.
+,3. Enhanced design of ProgressBars component.
+,
+21.05.2025 (Wednesday),
+,1. Fixed crashing issue in aboutus page.
+,2. Enhanced audit logs sections to show more detailed logs.
+,3. Working on modal of view detailed button.
+,
+22.05.2025 (Thursday),
+,1. Developed modal for view detail functionality.
+,2. Developed Restrict Counselor View toggle in Setting section.
+,3. Developing Auto assign leads functionality.
+,
+08.11.2024(Friday),
+,
+,
+,
+,
+09.11.2024(Saturday),
+,
+,
+,
+,
+,
+12.11.2024(Tuesday),
+,
+,
+,
+13.11.2024(Wednesday),
+,
+,
+,
+,
+,
+14.11.2024(Thursday),
+,
+,
+,
+,
+15.11.2024(Friday),
+,
+,
+,
+,
+,
+,
+16.11.2024(Saturday),
+,
+,
+,
+,
+,
+17.11.2024(Monday),
+,
+,
+,
+,
+,
+18.11.2024(Tuesday),
+,
+,
+,
+,
+,
+19.11.2024(Wednesday),
+,
+22.11.2024(Friday),
+,
+,
+,
+27.11.2024(Wednesday),
+,
+,
+,
+,
+28.11.2024(Thursday),
+,
+,
+,
+,
+29.11.2024(Friday),
+,
+,
+,
+,
+,
+30.11.2024(Saturday),
+,
+,
+,
+,
+02.12.2024(Monday),
+,
+,
+,
+,
+,
+03.12.2024(Tuesday),
+,
+,
+,
+,
+,
+04.12.2024(Wednesday),
+,
+,
+,
+,
+,
+,
+05.12.2024(Thursday),
